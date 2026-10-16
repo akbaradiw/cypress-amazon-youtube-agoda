@@ -1,0 +1,20 @@
+{
+    "origin": "Jakarta",
+    "destination": "Singapore",
+    "departureDate": "2024-07-15",
+    "passenger": {
+        "firstName": "refor",
+        "lastName": "masi",
+        "nationality": "Indonesia",
+        "day": "15",
+        "year": "1992",
+        "month": "January"
+
+    },
+    "contact": {
+           "firstName": "refor",
+        "lastName": "masi",
+        "email": "21may@1998.com",
+        "phone": "1234567890"
+    }
+}
